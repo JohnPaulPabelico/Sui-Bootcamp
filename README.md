@@ -1,3 +1,3 @@
-# Sui-Playground
+# Sui-Bootcamp
 
-This is a repository for my random sui testings
+This is a repository for the Blokc's Sui bootcamp
